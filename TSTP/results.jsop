@@ -1,0 +1,6 @@
+{
+"cols": [
+        {"id":"","label":"Country","pattern":"","type":"string"},
+        {"id":"","label":"Visitors","pattern":"","type":"number"}
+      ],
+  "rows": [{"c":[{"v":"United States ","f":null},{"v":2,"f":null}]},{"c":[{"v":"","f":null},{"v":16,"f":null}]}]}
